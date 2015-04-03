@@ -1,4 +1,4 @@
-## Installing ASP.NET vNext
+## Installing ASP.NET 5
 
 First you'll need to install the KVM and KRE:
 
